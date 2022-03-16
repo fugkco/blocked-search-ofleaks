@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Blocked Search Domains Only Fans Leaks spam
+! Expires: 7 days (update frequency)
+! Version: 1
+! Last modified: 15 March 2022
+! Homepage: https://github.com/fugkco/blocked-search-ofleaks/
+! Contribute: https://github.com/fugkco/blocked-search-ofleaks/issues
+! License: https://mit-license.org/
+! Description: Remove the OnlyFans leaks spam from DDG.
+!-------------------------------------------------------------------------------
+
+duckduckgo.com##.result[data-domain="ofleaksdl.co"]
