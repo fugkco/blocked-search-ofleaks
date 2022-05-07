@@ -10,3 +10,17 @@
 !-------------------------------------------------------------------------------
 
 duckduckgo.com##.result[data-domain="ofleaksdl.co"]
+duckduckgo.com##.result[data-domain="ofleaksdaily.com"]
+duckduckgo.com##.result[data-domain="onlyleaksmega.com"]
+duckduckgo.com##.result[data-domain="onetube.me"]
+duckduckgo.com##.result[data-domain="freeofcontent.co"]
+duckduckgo.com##.result[data-domain="ofleaksdaily.com"]
+duckduckgo.com##.result[data-domain="fssquad.com"]
+duckduckgo.com##.result[data-domain="getofleaks.com"]
+duckduckgo.com##.result[data-domain="leaksource.co"]
+duckduckgo.com##.result[data-domain="justleakedof.co"]
+duckduckgo.com##.result[data-domain="leakedcontent.co"]
+duckduckgo.com##.result[data-domain="leakedto.me"]
+duckduckgo.com##.result[data-domain="fansnleaks.co"]
+duckduckgo.com##.result[data-domain="leaks365.co"]
+duckduckgo.com##.result[data-domain="latestofleaks.co"]
