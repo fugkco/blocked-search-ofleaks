@@ -39,4 +39,3 @@ duckduckgo.com##a[data-testid="result-title-a"][href*="leaks365.co"]:upward(.nrn
 duckduckgo.com##a[data-testid="result-title-a"][href*=leaks365.co"]:upward(.tile)
 duckduckgo.com##a[data-testid="result-title-a"][href*="latestofleaks.co"]:upward(.nrn-react-div)
 duckduckgo.com##a[data-testid="result-title-a"][href*=latestofleaks.co"]:upward(.tile)
-
