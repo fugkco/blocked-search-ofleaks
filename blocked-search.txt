@@ -1,26 +1,42 @@
 [Adblock Plus 2.0]
 ! Title: Blocked Search Domains Only Fans Leaks spam
 ! Expires: 7 days (update frequency)
-! Version: 1
-! Last modified: 15 March 2022
+! Version: 2
+! Last modified: 4 Aug 2022
 ! Homepage: https://github.com/fugkco/blocked-search-ofleaks/
 ! Contribute: https://github.com/fugkco/blocked-search-ofleaks/issues
 ! License: https://mit-license.org/
 ! Description: Remove the OnlyFans leaks spam from DDG.
 !-------------------------------------------------------------------------------
 
-duckduckgo.com##.result[data-domain="ofleaksdl.co"]
-duckduckgo.com##.result[data-domain="ofleaksdaily.com"]
-duckduckgo.com##.result[data-domain="onlyleaksmega.com"]
-duckduckgo.com##.result[data-domain="onetube.me"]
-duckduckgo.com##.result[data-domain="freeofcontent.co"]
-duckduckgo.com##.result[data-domain="ofleaksdaily.com"]
-duckduckgo.com##.result[data-domain="fssquad.com"]
-duckduckgo.com##.result[data-domain="getofleaks.com"]
-duckduckgo.com##.result[data-domain="leaksource.co"]
-duckduckgo.com##.result[data-domain="justleakedof.co"]
-duckduckgo.com##.result[data-domain="leakedcontent.co"]
-duckduckgo.com##.result[data-domain="leakedto.me"]
-duckduckgo.com##.result[data-domain="fansnleaks.co"]
-duckduckgo.com##.result[data-domain="leaks365.co"]
-duckduckgo.com##.result[data-domain="latestofleaks.co"]
+duckduckgo.com##a[data-testid="result-title-a"][href*="ofleaksdl.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=ofleaksdl.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="ofleaksdaily.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=ofleaksdaily.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="onlyleaksmega.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=onlyleaksmega.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="onetube.me"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=onetube.me"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="freeofcontent.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=freeofcontent.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="ofleaksdaily.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=ofleaksdaily.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="fssquad.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=fssquad.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="getofleaks.com"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=getofleaks.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="leaksource.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=leaksource.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="justleakedof.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=justleakedof.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="leakedcontent.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=leakedcontent.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="leakedto.me"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=leakedto.me"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="fansnleaks.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=fansnleaks.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="leaks365.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=leaks365.co"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="latestofleaks.co"]:upward(.nrn-react-div)
+duckduckgo.com##a[data-testid="result-title-a"][href*=latestofleaks.co"]:upward(.tile)
+
